@@ -21,8 +21,8 @@ os.system("clear")
 os.system("figlet JhinNet")
 print
 print "Criado Por   : JhinStroke"
-print "YouTube : https://www.youtube.com/c/JhinStroke"
-print "GitHub   : https://github.com/JhinStroke"
+print "YouTube : https://www.youtube.com/channel/UCZP4kZ7K9FIbFUzYZvSne_A"
+print "GitHub   : https://github.com/CHK-source"
 print
 ip = raw_input("IP : ")
 port = input("Porta       : ")
