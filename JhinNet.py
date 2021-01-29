@@ -24,7 +24,7 @@ print "Criado Por   : JhinStroke"
 print "YouTube : https://www.youtube.com/c/JhinStroke"
 print "GitHub   : https://github.com/JhinStroke"
 print
-ip = raw_input("Endereço IP : ")
+ip = raw_input("IP : ")
 port = input("Porta       : ")
 
 os.system("clear")
