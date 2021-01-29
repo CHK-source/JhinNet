@@ -18,7 +18,7 @@ bytes = random._urandom(1490)
 #############
 
 os.system("clear")
-os.system("JhinNet")
+os.system("figlet JhinNet")
 print
 print "Criado Por   : JhinStroke"
 print "YouTube : https://www.youtube.com/c/JhinStroke"
@@ -28,7 +28,7 @@ ip = raw_input("IP : ")
 port = input("Porta       : ")
 
 os.system("clear")
-os.system("JhinNetAttack")
+os.system("figlet JhinNetAttack")
 print "[                    ] 0%"
 time.sleep(5)
 print "[=====               ] 25%"
